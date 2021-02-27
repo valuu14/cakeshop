@@ -1,0 +1,37 @@
+@font-face {
+    /*src: url("ProductSansRegular.ttf");*/
+    src: url("ProductSansBold.ttf");
+}
+
+* {
+    -fx-font-family: "Product Sans";
+}
+
+GridPane {
+    -fx-background-color: #212121;
+}
+
+.label {
+    -fx-text-fill: #fff;
+}
+
+.text-field {
+    -fx-text-fill: #212121;
+}
+
+.button {
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+    -fx-background-color: #3BAF6F;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+}
+
+.button:hover {
+    -fx-background-color: #267349;
+    -fx-border-width: 2px;
+}
+
+HBox{
+    -fx-background-color: #212121;
+}

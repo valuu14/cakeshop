@@ -1,0 +1,142 @@
+@font-face {
+    /*src: url("ProductSansRegular.ttf");*/
+    src: url("ProductSansBold.ttf");
+}
+
+* {
+    -fx-font-family: "Product Sans";
+}
+
+.table-view .label {
+    -fx-text-fill: #000;
+}
+
+.tab-pane{
+    -fx-background-color: #212121;
+}
+
+.table-cell{
+    -fx-font-family: "Times New Roman";
+    -fx-font-size: 12px;
+}
+
+.label {
+    -fx-text-fill: #fff;
+}
+
+.text-field {
+    -fx-background-color: #d9d9d9;
+}
+
+#addBtn {
+    -fx-font-family: "Product Sans";
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+    -fx-background-color: #3BAF6F;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+}
+
+#addBtn:hover {
+    -fx-background-color: #267349;
+    -fx-border-width: 2px;
+}
+
+#deleteBtn {
+    -fx-font-family: "Product Sans";
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+    -fx-background-color: #FF6347;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+}
+
+#deleteBtn:hover {
+    -fx-background-color: #ff3c1a;
+}
+
+#updateBtn {
+    -fx-font-family: "Product Sans";
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+    -fx-background-color: #72cada;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+}
+
+#updateBtn:hover {
+    -fx-background-color: #36b3c9;
+}
+
+.choice-box .label {
+    -fx-text-fill: #000;
+}
+#menu-bar {
+    -fx-background-color: #212121;
+    -fx-border-style: none;
+}
+
+#menu-bar-hLayout {
+    -fx-background-color: #212121;
+}
+
+.menu {
+    -fx-background-color: #212121;
+}
+
+.menu .label{
+    -fx-text-fill: white;
+}
+
+.menu:hover {
+    -fx-background-color: #212121;
+}
+
+.menu-item {
+    -fx-background-size: 100px;
+    -fx-background-color: #212121;
+    -fx-border-style: none;
+    -fx-padding: 5px;
+    -fx-text-fill: #fff;
+}
+
+.menu-item:hover {
+    -fx-background-color: #404040;
+}
+
+#btn-layout {
+    -fx-padding: 0px 0px 10px 0;
+}
+
+.choice-box .menu-item{
+    -fx-background-color: #fff;
+}
+
+.choice-box .menu-item:hover{
+    -fx-background-color: #e6e6e6;
+}
+
+#order-btn {
+    -fx-background-color: #0d66bf;
+    -fx-font-family: "Product Sans";
+    -fx-text-fill: #fff;
+    -fx-font-weight: bold;
+}
+
+#order-btn:hover {
+    -fx-background-color: #07244b;
+}
+
+.menu-button {
+    -fx-background-color: #212121;
+    -fx-border-style: none;
+    -fx-text-fill: #fff;
+}
+
+.date-picker .label {
+    -fx-text-fill: #000;
+}
+
+#change-status-grid {
+    -fx-padding: 0 0 10px 0;
+}

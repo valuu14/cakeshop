@@ -1,0 +1,9 @@
+Oreo cake;Oreo feeling cream;129.99;5
+Chocolate cake with dark chocolate mouse;Dark chocolate mouse;199.99;4
+Strawberry cake;Mascarpone cream;149.99;5
+Yellow Butter Cake;Chocolate frosting and rainbow sprinkles;99.99;3
+Pound Cake;Named because it's made with a pound of each of the main ingredients (flour, butter, and sugar);49.99;1
+Red Velvet Cake;Mascarpone cream with strawberries, raspberries and other berries;199.99;5
+Carrot Cake;Well... carrots :);44.99;1
+Sponge Cake;Whipped cream and smashed berries;49.99;2
+New cake;cream;50.0;12
